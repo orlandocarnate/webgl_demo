@@ -1,0 +1,11 @@
+.key {
+    border-style: solid;
+    border-radius: 5px;
+    padding: 5px 10px;
+    background-color: black;
+    color: white;
+}
+
+.marginY {
+    margin-top: 20px;
+}
